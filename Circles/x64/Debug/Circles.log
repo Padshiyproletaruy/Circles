@@ -1,8 +1,12 @@
 ﻿  Circles.cpp
-C:\Users\Govnyadiy\Documents\Circles\Circles.cpp(32,55): warning C4244: =: преобразование "const T" в "int", возможна потеря данных
-C:\Users\Govnyadiy\Documents\Circles\Circles.cpp(32,55): warning C4244:         with
-C:\Users\Govnyadiy\Documents\Circles\Circles.cpp(32,55): warning C4244:         [
-C:\Users\Govnyadiy\Documents\Circles\Circles.cpp(32,55): warning C4244:             T=float
-C:\Users\Govnyadiy\Documents\Circles\Circles.cpp(32,55): warning C4244:         ]
-C:\Users\Govnyadiy\Documents\Circles\Circles.cpp(44,50): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Govnyadiy\Documents\Circles\Circles.cpp(10,40): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+C:\Users\Govnyadiy\Documents\Circles\Circles.cpp(10,40): warning C4244:         with
+C:\Users\Govnyadiy\Documents\Circles\Circles.cpp(10,40): warning C4244:         [
+C:\Users\Govnyadiy\Documents\Circles\Circles.cpp(10,40): warning C4244:             T=unsigned int
+C:\Users\Govnyadiy\Documents\Circles\Circles.cpp(10,40): warning C4244:         ]
+C:\Users\Govnyadiy\Documents\Circles\Circles.cpp(16,41): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+C:\Users\Govnyadiy\Documents\Circles\Circles.cpp(16,41): warning C4244:         with
+C:\Users\Govnyadiy\Documents\Circles\Circles.cpp(16,41): warning C4244:         [
+C:\Users\Govnyadiy\Documents\Circles\Circles.cpp(16,41): warning C4244:             T=unsigned int
+C:\Users\Govnyadiy\Documents\Circles\Circles.cpp(16,41): warning C4244:         ]
   Circles.vcxproj -> C:\Users\Govnyadiy\Documents\Circles\x64\Debug\Circles.exe
